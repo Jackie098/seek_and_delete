@@ -1,0 +1,13 @@
+{
+  "name": "optimizing_projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Carlos Augusto",
+    "email": "carlos.aug.brandao.99@gmail.com"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
